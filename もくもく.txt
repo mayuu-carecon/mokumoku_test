@@ -1,0 +1,43 @@
+入れモノ→terraformを使って
+
+中身→AWSCLI
+
+
+
+AWS Lightsail container
+→コンテナに特化したサービス
+→安い
+→コンテナ10個まで
+→ロードバランサーあり
+
+
+terraform
+→インフラ構成をソースコードで管理できる
+→
+
+github actions
+→
+
+AWS CLI
+
+================
+terraform+github actions
+
+
+
+AWSCLI+github actions
+
+=====================
+awslightsail_container_service
+
+
+====================
+OIDC→接続セキュリティ
+
+IDプロバイダ→ロール→OIDC設定
+
+
+
+
+
+
